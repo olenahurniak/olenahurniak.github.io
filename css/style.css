@@ -7273,7 +7273,7 @@ body {
   font-size: 15px;
   line-height: 1.8;
   font-weight: 500;
-  color: #999999; }
+  color: black; }
   body.offcanvas {
     overflow-x: hidden; }
     body.offcanvas #colorlib-aside {
@@ -7590,14 +7590,14 @@ h1, h2, h3, h4, h5,
       border-radius: 50%; }
     .hero-wrap .text .subheading {
       font-size: 24px;
-      color: #bfbfbf;
+      color: black;
       font-weight: 300; }
     .hero-wrap .text h1 {
       letter-spacing: 1px;
       font-weight: 900; }
     .hero-wrap .text .btn-custom {
       font-weight: 400;
-      color: #b3b3b3;
+      color: #686767;
       border-bottom: 2px solid #b3b3b3; }
 
 .photography-entry {
